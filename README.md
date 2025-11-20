@@ -21,7 +21,7 @@
 <!-- Top languages (dark theme) excluding Jupyter repo -->
 <img 
   height="175em"
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=dmelloaries&layout=compact&langs_count=6&theme=radical&hide_border=true&count_private=true&include_all_commits=true&exclude_repo=Handwritten-Equation-Solver,Mathscribe" 
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=dmelloaries&layout=compact&langs_count=6&theme=radical&hide_border=true&count_private=false&include_all_commits=true&exclude_repo=Handwritten-Equation-Solver,Mathscribe" 
   alt="Top Languages"
 />
 
