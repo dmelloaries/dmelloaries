@@ -17,7 +17,7 @@
 
 <p align="center" style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
   <!-- Main GitHub stats (dark theme) -->
-    <img src="https://github-readme-stats.vercel.app/api?username=dmelloaries&show_icons=true&theme=radical&hide_border=true&rank_icon=github&count_private=true" height="180" />
+    <img src="https://github-readme-stats-fast.vercel.app/api?username=dmelloaries&show_icons=true&theme=radical" height="180" />
 <!-- Top languages (dark theme) excluding Jupyter repo -->
 <img 
   height="175em"
