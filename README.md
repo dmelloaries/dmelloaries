@@ -9,13 +9,13 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
  
-  <a href="https://drive.google.com/file/d/16gJZTXE7hmVnefDqbtO-t4NTXfXpkN4e/view?usp=sharing" target="_blank">
+  <a href="https://drive.google.com/file/d/1TP_nhITFHphfaIvTZYFEpG-kTs8MvpVn/view?usp=sharing" target="_blank">
     <img src="https://img.shields.io/badge/Resume-8A2BE2?style=for-the-badge&logo=readme&logoColor=white" alt="Resume"/>
   </a>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=dmelloaries&show_icons=true&theme=radical" height="165" />
+ 
   <img src="https://github-readme-stats-fast.vercel.app/api/streak?username=dmelloaries&theme=radical" height="165" />
   <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=dmelloaries&layout=compact&theme=radical" height="165" />
 </p>
